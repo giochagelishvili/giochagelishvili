@@ -6,7 +6,7 @@
 
 <img src="img/cover.webp">
 
-<p align="center"> I am web developer from Georgia, produced up to 20 web applications during my up-and-coming career. With my skills, I want to contribute to companies that are determined to leave a positive mark on the world. I envision myself in a team full of individuals with the same purpose as me, grinding day and night to spread an idea that will make living on earth easier and happier. </p>
+<p align="center"> I am web developer from Georgia, produced up to 20 web applications during my up-and-coming career. With my skills, I want to contribute to companies/individuals that are determined to leave a positive mark on the world. I envision myself in a team full of people with the same purpose as me, grinding day and night to spread an idea that will make living on earth easier and happier. </p>
 
 <h3 align="center">Languages and Tools:</h3>
 
