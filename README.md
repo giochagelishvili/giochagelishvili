@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gio</h1>
-<h3 align="center">A passionate web developer from Georgia</h3>
+<h3 align="center">A passionate web developer from Georgia <img src="img/georgia.png" style = "width: 1rem"></h3>
 
 <img src="img/cover.webp">
 
