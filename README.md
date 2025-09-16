@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Gio</h1>
 
 <h3 align="center">
-  A passionate .NET developer from Georgia
+  Software Engineer from Georgia
 </h3>
 
 <p align="center">
   <img src="img/georgia.png" style="width:2rem; display:inline-block; align:center;">
 </p>
 
-<p align="center"> I am .NET Developer from Georgia. With my skills, I want to contribute to companies/individuals that are determined to leave a positive mark on the world. I envision myself in a team full of people with the same purpose as me, grinding day and night to spread an idea that will make living on earth easier and happier. </p>
+<p align="center"> I am a software engineer from Georgia. With my skills, I want to contribute to companies that are determined to leave a positive mark on the world. I envision myself in a team full of people with the same purpose as me, working day and night to spread an idea that will make living on earth easier and happier. </p>
 
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -25,6 +25,6 @@
   </a>
 </p>
 
-<h1 align="center">C#, ASP.NET Core, MSSQL</h1>
+<h1 align="center">EF Core, MSSQL, DevOps, Software Architecture, Automated Testing</h1>
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=giochagelishvili&exclude_days=Sun"/></a></p>
