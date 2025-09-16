@@ -26,5 +26,3 @@
 </p>
 
 <h1 align="center">EF Core, MSSQL, DevOps, Software Architecture, Automated Testing</h1>
-
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=giochagelishvili&exclude_days=Sun"/></a></p>
